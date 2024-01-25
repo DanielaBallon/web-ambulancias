@@ -1,0 +1,25 @@
+nav {
+    grid-column: 1/2;
+    background-color: #394651;
+    border-radius: 15px;
+    border: solid 4px #ccc;
+    padding: 15px;
+    height: auto;
+    color: #fff;
+
+}
+
+nav a {
+    font-size: 1.1rem;
+    width: 100%;
+    padding: 3px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    display: block;
+}
+
+nav a:hover {
+    background-color: aquamarine;
+    color: #000;
+}

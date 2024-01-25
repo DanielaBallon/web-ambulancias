@@ -1,0 +1,535 @@
+﻿{
+  "ID": 16,
+  "Usuarios": [
+    {
+      "ID": 1,
+      "Nombre": "admin",
+      "Telefono": 1111111,
+      "Dni": 1,
+      "Mail": "admin@mail.com",
+      "Password": "1",
+      "Rol": "ADMINISTRADOR",
+      "URL": "IMAGENES/USUARIOS/USUARIODEFAULT.JPG",
+      "Estado": ""
+    },
+    {
+      "ID": 2,
+      "Nombre": "LUCA",
+      "Dni": "2",
+      "Mail": "LUCA@REC",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "2",
+      "Rol": "RECEPTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+
+    {
+      "ID": 3,
+      "Nombre": "pedro",
+      "Dni": "3",
+      "Mail": "pedro@rec",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "3",
+      "Rol": "RECEPTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    {
+      "ID": 4,
+      "Nombre": "daniel",
+      "Dni": "4",
+      "Mail": "daniel@dir",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "4",
+      "Rol": "DIRECTOR DE TRANSITO",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    {
+      "ID": 5,
+      "Nombre": "mirta",
+      "Dni": "5",
+      "Mail": "mirta@dir",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "5",
+      "Rol": "DIRECTOR DE TRANSITO",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    {
+      "ID": 6,
+      "Nombre": "matias",
+      "Dni": "6",
+      "Mail": "matias@cond",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "6",
+      "Rol": "CONDUCTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": "En espera"
+    },
+    {
+      "ID": 7,
+      "Nombre": "ivan",
+      "Dni": "7",
+      "Mail": "ivan@cond",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "7",
+      "Rol": "CONDUCTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": "En espera"
+    },
+    {
+      "ID": 8,
+      "Nombre": "mariela",
+      "Dni": "8",
+      "Mail": "mariela@cond",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "8",
+      "Rol": "CONDUCTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": "En espera"
+    },
+    {
+      "ID": 9,
+      "Nombre": "gaston",
+      "Dni": "9",
+      "Mail": "gaston@cond",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "9",
+      "Rol": "CONDUCTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": "En espera"
+    },
+    {
+      "ID": 10,
+      "Nombre": "lorena",
+      "Dni": "10",
+      "Mail": "lore@pac",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "10",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    {
+      "ID": 11,
+      "Nombre": "ester",
+      "Dni": "11",
+      "Mail": "ester@pac",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "11",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    {
+      "ID": 12,
+      "Nombre": "susana",
+      "Dni": "12",
+      "Mail": "susana@pac",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "12",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    {
+      "ID": 13,
+      "Nombre": "soledad",
+      "Dni": "13",
+      "Mail": "sole@pac",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "13",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    {
+      "ID": 14,
+      "Nombre": "juan",
+      "Dni": "14",
+      "Mail": "juan@pac",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "14",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    {
+      "ID": 15,
+      "Nombre": "diego",
+      "Dni": "15",
+      "Mail": "diego@pac",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "15",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    {
+      "ID": 16,
+      "Nombre": "luna",
+      "Dni": "16",
+      "Mail": "luna@pac",
+      "Dirección": "",
+      "Telefono": "",
+      "Password": "16",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    }
+  ]
+}
+
+
+//AMBULANCIAS/COLAAMB
+[
+  {
+    "ID": 1,
+    "Modelo": "MODELO1",
+    "Nombre": "AMB1",
+    "Marca": "MARCA1",
+    "Patente": "PAT1",
+    "Estado": "ACTIVO",
+    "Historial": [ "Wed Nov 22 2023 10:59:09 GMT-0300 (hora estándar de Argentina) QUEVA" ]
+  },
+  {
+    "ID": 2,
+    "Modelo": "modelo2",
+    "Nombre": "amb2",
+    "Marca": "marca1",
+    "Patente": "pat2",
+    "Estado": "ACTIVO",
+    "Historial": [ "Wed Nov 22 2023 11:00:47 GMT-0300 (hora estándar de Argentina) que va " ]
+  },
+  {
+    "ID": 3,
+    "Modelo": "modelo3",
+    "Nombre": "Amb3",
+    "Marca": "marca3",
+    "Patente": "pat3",
+    "Estado": "ACTIVO",
+    "Historial": [ "Wed Nov 22 2023 11:06:53 GMT-0300 (hora estándar de Argentina) queva" ]
+  },
+  {
+    "ID": 4,
+    "Modelo": "modelo3",
+    "Nombre": "amb4",
+    "Marca": "marca2",
+    "Patente": "pat4",
+    "Estado": "ACTIVO",
+    "Historial": [ "Wed Nov 22 2023 11:12:33 GMT-0300 (hora estándar de Argentina) asd" ]
+  },
+  {
+    "ID": 5,
+    "Modelo": "MODELO5",
+    "Nombre": "AMB5",
+    "Marca": "MARCA5",
+    "Patente": "PAT5",
+    "Estado": "ACTIVO",
+    "Historial": [ "Thu Nov 23 2023 12:23:43 GMT-0300 (hora estándar de Argentina) EN BUEN ESTADO" ]
+  },
+  {
+    "ID": 6,
+    "Modelo": "M6",
+    "Nombre": "AMB6",
+    "Marca": "M6",
+    "Patente": "PAT6",
+    "Estado": "ACTIVO",
+    "Historial": [ "Thu Nov 23 2023 17:42:05 GMT-0300 (hora estándar de Argentina) SD" ]
+  },
+  {
+    "ID": 7,
+    "Modelo": "m7",
+    "Nombre": "amb7",
+    "Marca": "marca7",
+    "Patente": "pat7",
+    "Estado": "ACTIVO",
+    "Historial": [ "Thu Nov 23 2023 17:56:12 GMT-0300 (hora estándar de Argentina) ad" ]
+  },
+  {
+    "ID": 8,
+    "Modelo": "mod8",
+    "Nombre": "amb8",
+    "Marca": "mar8",
+    "Patente": "pat8",
+    "Estado": "ACTIVO",
+    "Historial": [ "Thu Nov 23 2023 18:20:05 GMT-0300 (hora estándar de Argentina) as" ]
+  }
+]
+
+//ESTADO DE PEDIDO
+
+[
+  {
+    "ID": 0,
+    "Paciente": {
+      "ID": 15,
+      "Nombre": "diego",
+      "Dni": "15",
+      "Mail": "diego@pac",
+      "Direcci�n": "",
+      "Telefono": "",
+      "Password": "15",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    "Problema": "aturdimiento",
+    "TipoProblema": "ACCIDENTE",
+    "TiempoDePedido": 1700781837411,
+    "Comentario": "",
+    "Estado": "Salió la ambulancias",
+    "Direccion": "PRUEBA 1",
+    "TipoDeCola": "En Espera de ambulancia",
+    "TiempoDeCola": 1700782009298,
+    "Ambulancia": {
+      "ID": 3,
+      "Modelo": "modelo3",
+      "Nombre": "Amb3",
+      "Marca": "marca3",
+      "Patente": "pat3",
+      "Estado": "ACTIVO",
+      "Historial": [ "Wed Nov 22 2023 11:06:53 GMT-0300 (hora estándar de Argentina) queva" ]
+    },
+    "TiempoDeViaje": 1700782075776,
+    "Conductor": {
+      "ID": 8,
+      "Nombre": "mariela",
+      "Dni": "8",
+      "Mail": "mariela@cond",
+      "Direcci�n": "",
+      "Telefono": "",
+      "Password": "8",
+      "Rol": "CONDUCTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": "EN VIAJE"
+    }
+  },
+  {
+    "ID": 1,
+    "Paciente": {
+      "ID": 11,
+      "Nombre": "ester",
+      "Dni": "11",
+      "Mail": "ester@pac",
+      "Direcci�n": "",
+      "Telefono": "",
+      "Password": "11",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    "Problema": "aturdimiento",
+    "TipoProblema": "ACCIDENTE",
+    "TiempoDePedido": 1700781864382,
+    "Comentario": "",
+    "Estado": "Salió la ambulancias",
+    "Direccion": "PRUEBA 2",
+    "TipoDeCola": "En Espera prioritaria de ambulancia",
+    "TiempoDeCola": 1700782011883,
+    "Ambulancia": {
+      "ID": 1,
+      "Modelo": "MODELO1",
+      "Nombre": "AMB1",
+      "Marca": "MARCA1",
+      "Patente": "PAT1",
+      "Estado": "ACTIVO",
+      "Historial": [ "Wed Nov 22 2023 10:59:09 GMT-0300 (hora estándar de Argentina) QUEVA" ]
+    },
+    "TiempoDeViaje": 1700782064076,
+    "Conductor": {
+      "ID": 6,
+      "Nombre": "matias",
+      "Dni": "6",
+      "Mail": "matias@cond",
+      "Direcci�n": "",
+      "Telefono": "",
+      "Password": "6",
+      "Rol": "CONDUCTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": "EN VIAJE"
+    }
+  },
+  {
+    "ID": 2,
+    "Paciente": {
+      "ID": 14,
+      "Nombre": "juan",
+      "Dni": "14",
+      "Mail": "juan@pac",
+      "Direcci�n": "",
+      "Telefono": "",
+      "Password": "14",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    "Problema": "aturdimiento",
+    "TipoProblema": "ACCIDENTE",
+    "TiempoDePedido": 1700781904180,
+    "Comentario": "",
+    "Estado": "Salió la ambulancias",
+    "Direccion": "PRUEBA3",
+    "TipoDeCola": "En Espera de ambulancia",
+    "TiempoDeCola": 1700782015716,
+    "Ambulancia": {
+      "ID": 4,
+      "Modelo": "modelo3",
+      "Nombre": "amb4",
+      "Marca": "marca2",
+      "Patente": "pat4",
+      "Estado": "ACTIVO",
+      "Historial": [ "Wed Nov 22 2023 11:12:33 GMT-0300 (hora estándar de Argentina) asd" ]
+    },
+    "TiempoDeViaje": 1700782083860,
+    "Conductor": {
+      "ID": 9,
+      "Nombre": "gaston",
+      "Dni": "9",
+      "Mail": "gaston@cond",
+      "Direcci�n": "",
+      "Telefono": "",
+      "Password": "9",
+      "Rol": "CONDUCTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": "EN VIAJE"
+    }
+  },
+  {
+    "ID": 3,
+    "Paciente": {
+      "ID": 13,
+      "Nombre": "soledad",
+      "Dni": "13",
+      "Mail": "sole@pac",
+      "Direcci�n": "",
+      "Telefono": "",
+      "Password": "13",
+      "Rol": "PACIENTE",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": ""
+    },
+    "Problema": "aturdimiento",
+    "TipoProblema": "ACCIDENTE",
+    "TiempoDePedido": 1700781925099,
+    "Comentario": "",
+    "Estado": "Salió la ambulancias",
+    "Direccion": "PRUEBA4",
+    "TipoDeCola": "En Espera prioritaria de ambulancia",
+    "TiempoDeCola": 1700782016776,
+    "Ambulancia": {
+      "ID": 2,
+      "Modelo": "modelo2",
+      "Nombre": "amb2",
+      "Marca": "marca1",
+      "Patente": "pat2",
+      "Estado": "ACTIVO",
+      "Historial": [ "Wed Nov 22 2023 11:00:47 GMT-0300 (hora estándar de Argentina) que va " ]
+    },
+    "TiempoDeViaje": 1700782071197,
+    "Conductor": {
+      "ID": 7,
+      "Nombre": "ivan",
+      "Dni": "7",
+      "Mail": "ivan@cond",
+      "Direcci�n": "",
+      "Telefono": "",
+      "Password": "7",
+      "Rol": "CONDUCTOR",
+      "URL": "imagenes/usuarios/usuariodefault.jpg",
+      "Estado": "EN VIAJE"
+    }
+  }
+]
+
+ this.ListarLlegada = () => {
+      let  CantLlegadas, Desde, Hasta,X,Y;
+      const validarParametros=() => {
+          if (Desde < 0 || Hasta < 0 || Desde > CantLlegadas || Hasta > CantLlegadas || Desde > Hasta) {
+              alert("parametros invalidos, vuelva a ingresar")
+              return false;
+          } else {
+              Listar(Desde, Hasta);
+              return;
+          }
+        
+      }
+        const Submit = () => {
+            if (CantLlegadas === 0) {
+                alert("No hay ambulancias recepcionadas")
+            } else {
+                Desde=parseInt(X.value)
+                Hasta= parseInt(Y.value)
+                if (Desde < 0 || Hasta < 0 || Desde > CantLlegadas || Hasta > CantLlegadas || Desde > Hasta) {
+                    // Muestra un mensaje de error o maneja la validación de acuerdo a tus necesidades
+                    alert("Parámetros inválidos");
+                    //this.ListarLlegada();
+                    //me quede en cargar mas datos a la listaedatos finales y luego seguir probando esta funicion desde adm
+                }
+                else {
+                    Listar(Desde, Hasta);
+                    return;
+                    //$f.ListarLlegada();
+                }
+            }
+        };
+        const Listar = (Desde,Hasta) => {
+            console.log("Listar: Inicio");
+            const List = $fin.ListTram(Desde,Hasta);
+            const Header = ["Paciente", "Conductor", "Sin atención", "En cola", "En transporte","Tiempo total","Comentario"];
+            const Frow = (tr, ped) => {
+                tr.childNodes[0].innerText = ped.Paciente.Nombre;
+                tr.childNodes[1].innerText = ped.Conductor.Nombre;
+                tr.childNodes[2].innerText = ped.TiempoDePedido;
+                tr.childNodes[3].innerText = ped.TiempoDeCola;
+                tr.childNodes[4].innerText = ped.TiempoDeViaje;
+                tr.childNodes[5].innerText = ped.TiempoDePedido + ped.TiempoDeCola + ped.TiempoDeViaje;
+                $dt.iconModify(tr.childNodes[6], () => {
+                    if (ped.Comentario !== "") {
+                        alert(ped.Comentario);
+                    } else {
+                        alert("no hay comentarios");
+
+                    }
+                                    });
+            };
+
+            $dt.Table("Historial de pedidos", Header, List, Frow);
+            console.log("Listar: Fin");
+      };
+
+        Home();
+        const f = $dc.form("Receoción de ambulancias", "Buscar");
+        f.className = "w60 top3";
+        f.onsubmit = Submit;
+        CantLlegadas = $dc.addTextDisabled("Cantidad de llegadas").value=$fin.Count();
+        X = $dc.addNumber("Desde");
+        Y = $dc.addNumber("Hasta");
+      Listacompleta = $fin.List();
+      if (Listacompleta = undefined || Listacompleta.Count() == 0) {
+          alert("No hay historial de ambulancias")
+          return
+      } else{
+        Listar(X,Y)
+      }
+        ;
+
+
+       
+    };

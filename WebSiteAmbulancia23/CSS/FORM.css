@@ -1,0 +1,165 @@
+section form {
+    margin: auto;
+
+    border: solid 2px #777;
+    border-radius: 10px;
+
+}
+
+section form .header {
+    background-color: #8291a3;
+    color: fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+section form .header img {
+    height: 1.2rem;
+    border-radius: 50%;
+}
+
+.w40 {
+    width: 40%;
+}
+
+.top3 {
+    margin-top: 40px;
+}
+
+.w60 {
+    width: 40%;
+}
+
+.w80 {
+    width: 80%;
+}
+
+section form .header label {
+    font-size: 1.2rem;
+    color: #343541;
+}
+
+section form #foot {
+    margin-top: 15px;
+    background-color: #8291a3;
+    padding: 10px;
+}
+
+#foot input {
+    width: 100%;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+#foot input:hover {
+    opacity: 0.8;
+}
+
+form #Cform {
+    width: 100%;
+    padding: 5px;
+    height: auto;
+}
+
+#Cform input,
+#Cform select {
+    width: 100%;
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+
+#Cform label {
+    clear: left;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 0.8rem;
+    color: #2a2b2d;
+}
+
+#Cform input {
+    text-align: left;
+    text-transform: lowercase;
+}
+
+.forgot {
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    background-color: rgba(154, 115, 68, 0.4);
+    margin-top: 3rem;
+    border-radius: 5px;
+    border: double #777;
+    box-shadow: 1rem 1rem 2rem #ccc;
+}
+
+.btn {
+    margin-top: 10px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    background-color: rgb(187, 190, 174);
+    border: solid 2px rgb(240, 236, 236);
+    border-radius: 3px;
+    width: 70%;
+    margin: auto;
+    color: #000;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+.rolesposibles {
+    color: #eee;
+    background-color: rgba(152, 149, 145, 0.877);
+    margin-bottom: 5px;
+}
+
+.listrol {
+    background-color: black;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+.togglelbl {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 25px;
+    width: 70%;
+    margin: auto;
+}
+
+#Cform .togglelbl label {
+    font-size: 1.2rem;
+    margin: 5px 20px;
+}
+
+.boton {
+    margin: auto;
+    width: 40%;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: burlywood;
+    color: #000;
+}
+
+.boton:hover {
+    opacity: 0.7;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: column;
+    clear: both;
+    margin: auto;
+    margin-top: 6rem;
+    background-color: #555;
+    color: #fff;
+    box-shadow: 12px 12px 24px #ccc;
+    border: double white;
+    padding: 12px;
+}
